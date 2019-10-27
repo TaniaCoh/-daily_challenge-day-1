@@ -1,0 +1,39 @@
+body{
+color: #6A123D;
+background-color: #FFDBAA;
+background-image: url(https://static.vecteezy.com/system/resources/previews/000/151/798/non_2x/vector-source-code-symbol-on-binary-number-background.jpg);
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+h1{
+	border-right: 5px solid;
+ 	border-bottom: 5px solid;
+ 	width: 400px;
+ 	background-color: #F3A2AD;
+}
+
+ul{
+	background-color: #F3A2AD;
+	width: 130px;
+	height: 80px;
+}
+
+img{
+	width: 350px;
+	height: 200px;
+	margin: 10px;
+	cursor: pointer;
+	transition: 1s;
+}
+
+
+img:hover{
+	transform: scale(1.1);
+}
+
+div{
+	cursor: pointer;
+	font-size: 50px;
+}
