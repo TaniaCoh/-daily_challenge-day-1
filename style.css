@@ -1,0 +1,26 @@
+body{
+	color: #261657;
+	background-image: url(livres-illustration_6033492.jpg);
+	background-size: cover;
+	font-family: calibri;
+}
+
+p{
+	font-size: 1.3em
+}
+h2{
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 180px;
+	box-shadow: 4px 4px 5px #256F5C;
+}
+
+img{
+	cursor: pointer;
+	transition: 1s;
+}
+
+
+img:hover{
+	transform: scale(1.1);
+}
